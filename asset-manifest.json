@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://emilyp2510.github.io/csb-tl28no/static/css/main.fc5c2c69.css",
+    "main.js": "https://emilyp2510.github.io/csb-tl28no/static/js/main.603b0c92.js",
+    "index.html": "https://emilyp2510.github.io/csb-tl28no/index.html",
+    "main.fc5c2c69.css.map": "https://emilyp2510.github.io/csb-tl28no/static/css/main.fc5c2c69.css.map",
+    "main.603b0c92.js.map": "https://emilyp2510.github.io/csb-tl28no/static/js/main.603b0c92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.603b0c92.js"
+  ]
+}
